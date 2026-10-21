@@ -1,0 +1,7 @@
+﻿,값
+car_kg_km,0.17
+pickup_factor,2.0
+detour,1.3
+diesel_van_kg_km,0.27
+ev_kwh_km,0.22
+grid_kg_kwh,0.45

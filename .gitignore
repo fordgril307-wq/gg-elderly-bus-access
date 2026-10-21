@@ -1,0 +1,6 @@
+data/raw/
+data/adm/
+data/processed/
+report/pg-*.png
+report/sheet.png
+__pycache__/
