@@ -3,6 +3,8 @@
 
 한겨레 × 재단법인 숲과나눔 「AI와 함께하는 교통문제 해결을 위한 데이터 분석 공모전」(2026) 출품작(김혜수)의 분석 코드·표·그림입니다.
 
+보고서: [report/김혜수_분석보고서.pdf](report/김혜수_분석보고서.pdf)
+
 ## 실행
 ```bash
 pip install -r requirements.txt   # Python 3.13에서 확인
