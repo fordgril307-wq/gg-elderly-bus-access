@@ -4,3 +4,4 @@ data/processed/
 report/pg-*.png
 report/sheet.png
 __pycache__/
+.venv/
